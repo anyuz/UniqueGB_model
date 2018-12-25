@@ -7,11 +7,11 @@ This package is created to check the least adding points that reseachers need to
 ### 1. Import Package
 First download the package, then move example dataset p2n4.txt to the folder we want to run the python2/3.
 Run the python2/3, then import the packag: 
-#### from UniqueGB_model import UniqueGB_model
+#### from UniqueGBmodel import UniqueGBmodel
 
 ### 2. Create Class
 
-#### myadd = UniqueGB_model()
+#### myadd = UniqueGBmodel()
 
 ### 3. Run Check Function
 
