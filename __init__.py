@@ -1,5 +1,5 @@
 
-class addonepoint:
+class UniqueGB_model:
 	def __init__(self):
 		self.res = []
 		self.path = False
