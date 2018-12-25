@@ -1,4 +1,4 @@
-# UniqueGB_model
+# UniqueGBmodel
 
 This package is created to check the least adding points that reseachers need to collect in experimental tests to get unique Gb model for discreate biological networks. 
 
