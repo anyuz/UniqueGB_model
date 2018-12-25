@@ -1,4 +1,4 @@
-# addonepoint
+# UniqueGB_model
 
 This package is created to check the least adding points that reseachers need to collect in experimental tests to get unique Gb model for discreate biological networks. 
 
@@ -7,11 +7,11 @@ This package is created to check the least adding points that reseachers need to
 ### 1. Import Package
 First download the package, then move example dataset p2n4.txt to the folder we want to run the python2/3.
 Run the python2/3, then import the packag: 
-#### from addonepoint import addonepoint
+#### from UniqueGB_model import UniqueGB_model
 
 ### 2. Create Class
 
-#### myadd = addonepoint()
+#### myadd = UniqueGB_model()
 
 ### 3. Run Check Function
 
